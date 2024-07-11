@@ -1,0 +1,19 @@
+.aunty-container{
+    width: 250px;
+    border: 2px solid red;
+}
+
+.flex-aunty{
+    display: flex;
+    justify-content: space-around;
+}
+
+.daughter-container{
+    border: 2px solid red;
+}
+
+.special{
+    width: 70px;
+    margin: auto;
+    border: 2px solid red;
+}
